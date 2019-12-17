@@ -1,0 +1,36 @@
+{
+  "hotels":[
+    
+ {
+  "id": 1,
+  "nom": "vincci Flora",
+  "lieu": "Hammemet",
+  "note": 8.2 ,
+  "prixNuit" : 70
+
+ },
+
+  {
+     
+    "id": 2,
+    "nom": "Hotel Nesrine",
+    "lieu": "Hammemet",
+    "note": 8.2 ,
+    "prixNuit" : 115
+  
+  },
+  {
+
+    
+    "id": 3,
+    "nom": "Hotel Bel Azur",
+    "lieu": "Hammemet",
+    "note": 8.2 ,
+    "prixNuit" : 150
+  
+
+  }
+  
+  ]
+
+}
